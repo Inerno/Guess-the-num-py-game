@@ -1,3 +1,3 @@
 # Guess-the-num-py-game
 
-simple game in Python called "Rock, Paper, Scissors". In this game, the player and the computer both choose between rock, paper, or scissors, and the outcome is determined by the rules of the game: rock beats scissors, scissors beat paper, and paper beats rock.
+simple game in Python called "Guess the Number". In this game, the computer generates a random number between 1 and 100, and the player has to guess what the number is. The computer will give hints like "Too high" or "Too low" until the player correctly guesses the number.
